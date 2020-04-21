@@ -9,6 +9,5 @@ echo "<h1>About Me</h1><br>";
 echo "nama saya adalah $nama<br>";
 echo "saya sedang belajar bahasa $learn<br>";
 echo "saya berasal dari kota subang<br>";
-echo "belajar lah sampai pro";
 ?>
 
